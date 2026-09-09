@@ -79,7 +79,5 @@ func (c *Cache) Len() int {
 	return len(c.mp)
 }
 
-// 测试案例
 func main() {
-	judge()
 }
